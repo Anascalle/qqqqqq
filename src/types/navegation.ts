@@ -1,0 +1,12 @@
+export enum Screens {
+    LOGIN = "LOGIN",
+    LANDING = "LANDING",
+    SIGNUP = "SIGNUP",
+    DASHBOARD = "DASHBOARD",
+    SETTINGS = "SETTINGS",
+    FRIENDS = "FRIENDS",
+    EDIT = "EDIT",
+    MOODBOARD = "MOODBOARD",
+    UPLOAD = "UPLOAD",
+    PROFILE = "PROFILE",
+  }
